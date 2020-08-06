@@ -1,0 +1,101 @@
+id,name,abbv,candidate_name,candidate_party,pct
+1,California,CA,Donald Trump,REP,30
+2,Nevada,NV,Donald Trump,REP,45
+3,Vermont,VT,Joseph R. Biden Jr.,DEM,67.9
+4,North Carolina,NC,Joseph R. Biden Jr.,DEM,51
+5,New Jersey,NJ,Donald Trump,REP,35
+6,Delaware,DE,Donald Trump,REP,40.2
+7,Texas,TX,Donald Trump,REP,48
+8,Alaska,AK,Joseph R. Biden Jr.,DEM,40
+9,Alabama,AL,Donald Trump,REP,53
+10,Maryland,MD,Joseph R. Biden Jr.,DEM,59.1
+11,Wisconsin,WI,Joseph R. Biden Jr.,DEM,51
+12,Utah,UT,Donald Trump,REP,44
+13,Mississippi,MS,Donald Trump,REP,50.4
+14,Rhode Island,RI,Joseph R. Biden Jr.,DEM,62.3
+15,South Dakota,SD,Joseph R. Biden Jr.,DEM,40
+16,Pennsylvania,PA,Joseph R. Biden Jr.,DEM,48
+17,Minnesota,MN,Donald Trump,REP,42
+18,Missouri,MO,Joseph R. Biden Jr.,DEM,48
+19,Connecticut,CT,Donald Trump,REP,33
+20,New York,NY,Donald Trump,REP,32
+21,Iowa,IA,Joseph R. Biden Jr.,DEM,43
+22,Idaho,ID,Joseph R. Biden Jr.,DEM,37.5
+23,New Hampshire,NH,Donald Trump,REP,42
+24,Arkansas,AR,Donald Trump,REP,47
+25,South Dakota,SD,Donald Trump,REP,60
+26,Rhode Island,RI,Donald Trump,REP,37.7
+27,Wyoming,WY,Donald Trump,REP,69.9
+28,New Mexico,NM,Joseph R. Biden Jr.,DEM,53
+29,Arkansas,AR,Joseph R. Biden Jr.,DEM,45
+30,Connecticut,CT,Joseph R. Biden Jr.,DEM,56
+31,South Carolina,SC,Donald Trump,REP,52
+32,Pennsylvania,PA,Donald Trump,REP,42.7
+33,Kentucky,KY,Joseph R. Biden Jr.,DEM,37
+34,Georgia,GA,Joseph R. Biden Jr.,DEM,49
+35,South Carolina,SC,Joseph R. Biden Jr.,DEM,42
+36,Utah,UT,Joseph R. Biden Jr.,DEM,41
+37,Wyoming,WY,Joseph R. Biden Jr.,DEM,30
+38,Delaware,DE,Joseph R. Biden Jr.,DEM,55.9
+39,Nebraska,NE,Joseph R. Biden Jr.,DEM,52
+40,Idaho,ID,Donald Trump,REP,62.5
+41,Kansas,KS,Joseph R. Biden Jr.,DEM,40
+42,Michigan,MI,Joseph R. Biden Jr.,DEM,48
+43,Nevada,NV,Joseph R. Biden Jr.,DEM,49
+44,Montana,MT,Joseph R. Biden Jr.,DEM,37.9
+45,Oklahoma,OK,Joseph R. Biden Jr.,DEM,36
+46,New Hampshire,NH,Joseph R. Biden Jr.,DEM,49
+47,Indiana,IN,Joseph R. Biden Jr.,DEM,39
+48,California,CA,Joseph R. Biden Jr.,DEM,58
+49,Kansas,KS,Donald Trump,REP,52
+50,New Jersey,NJ,Joseph R. Biden Jr.,DEM,54
+51,North Dakota,ND,Donald Trump,REP,55
+52,New York,NY,Joseph R. Biden Jr.,DEM,57
+53,Mississippi,MS,Joseph R. Biden Jr.,DEM,40.6
+54,North Dakota,ND,Joseph R. Biden Jr.,DEM,38
+55,Colorado,CO,Donald Trump,REP,39
+56,Colorado,CO,Joseph R. Biden Jr.,DEM,56
+57,Florida,FL,Joseph R. Biden Jr.,DEM,45.9
+58,Iowa,IA,Donald Trump,REP,44
+59,Illinois,IL,Donald Trump,REP,39.5
+60,Minnesota,MN,Joseph R. Biden Jr.,DEM,58
+61,Nebraska,NE,Donald Trump,REP,41
+62,Vermont,VT,Donald Trump,REP,32.1
+63,Ohio,OH,Joseph R. Biden Jr.,DEM,46
+64,Montana,MT,Donald Trump,REP,52.3
+65,Maine,ME,Joseph R. Biden Jr.,DEM,53
+66,Oregon,OR,Joseph R. Biden Jr.,DEM,60.2
+67,Illinois,IL,Joseph R. Biden Jr.,DEM,60.5
+68,Wisconsin,WI,Donald Trump,REP,43
+69,Maine,ME,Donald Trump,REP,42
+70,New Mexico,NM,Donald Trump,REP,39
+71,Tennessee,TN,Joseph R. Biden Jr.,DEM,42
+72,Massachusetts,MA,Donald Trump,REP,33.1
+73,Oregon,OR,Donald Trump,REP,39.8
+74,Florida,FL,Donald Trump,REP,45.94
+75,Maryland,MD,Donald Trump,REP,35.3
+76,Lousiana,LA,Joseph R. Biden Jr.,DEM,44
+77,Hawaii,HI,Donald Trump,REP,30
+78,Alaska,AK,Donald Trump,REP,45
+79,West Virginia,WV,Donald Trump,REP,66
+80,Virginia,VA,Donald Trump,REP,39
+81,Washington,WA,Donald Trump,REP,37
+82,West Virginia,WV,Joseph R. Biden Jr.,DEM,31
+83,Indiana,IN,Donald Trump,REP,49
+84,Alabama,AL,Joseph R. Biden Jr.,DEM,39
+85,Kentucky,KY,Donald Trump,REP,57
+86,Arizona,Ari,Joseph R. Biden Jr.,DEM,47.1
+87,North Carolina,NC,Donald Trump,REP,44
+88,Georgia,GA,Donald Trump,REP,45
+89,Oklahoma,OK,Donald Trump,REP,55
+90,Massachusetts,MA,Joseph R. Biden Jr.,DEM,66.9
+91,Michigan,MI,Donald Trump,REP,43
+92,Lousiana,LA,Donald Trump,REP,56
+93,Missouri,MO,Donald Trump,REP,46
+94,Tennessee,TN,Donald Trump,REP,51
+95,Ohio,OH,Donald Trump,REP,45
+96,Hawaii,HI,Joseph R. Biden Jr.,DEM,70
+97,Texas,TX,Joseph R. Biden Jr.,DEM,44
+98,Arizona,Ari,Donald Trump,REP,45.4
+99,Washington,WA,Joseph R. Biden Jr.,DEM,59
+100,Virginia,VA,Joseph R. Biden Jr.,DEM,51

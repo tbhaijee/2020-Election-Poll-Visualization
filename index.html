@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Web Development Project</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="us_map_js/style.css">
+    <!--import leaflet stylesheet-->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin="" />
+</head>
+
+<body>
+    <div class="container-fluid">
+        <!--Normally these medium columns go full wide on small screen sizes-->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <!-- <nav class="navbar navbar-expand-lg"> -->
+            <a class="navbar-brand mr-3" href="index.html">
+                <h1>Election Poll 2020</h1>
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="index.html"><span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./static_state_page/project2_index.html">Data</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="biden.html">Biden</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="trump.html">Trump</a>
+                    </li>
+
+                </ul>
+            </div>
+        </nav>
+        <p><br></p>
+        <div class="row ">
+            <div class="col-md-12 jumbtron text-center">
+                <h2 class="mt-0">Election Poll Status</h2>
+                <p><br></p>
+
+                <div id="map"></div>
+
+                <!--leaflet-->
+                <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js" integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q==" crossorigin=""></script>
+
+                <!--d3 javascript-->
+                <script src="https://d3js.org/d3.v4.min.js"></script>
+
+                <!-- jquery -->
+                <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+                <!-- Leaflet-Choropleth JavaScript -->
+                <script type="text/javascript" src="us_map_js/choropleth.js"></script>
+
+                <!--visual.js (mine)-->
+                <script type="text/javascript" src="us_map_js/us-states.js"></script>
+                <script type="text/javascript" src="us_map_js/config.js"></script>
+                <script type="text/javascript" src="us_map_js/map.js"></script>
+
+        <p><br></p>
+        <p><br></p>
+        <div class="footer text-center">
+            <p>Data Analytics - Web Development Project</p>
+        </div>
+        
+</body>
+
+</html>

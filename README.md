@@ -1,2 +1,4 @@
-# 2020-Election-Poll-Visualization
-Project-2
+# Presidential Election Poll Visualization for 2020
+Project Team Members: Meera Shah, Tasneem Bhaijee, Jay Shah
+
+
