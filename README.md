@@ -3,8 +3,8 @@ Project Team Members: Meera Shah, Tasneem Bhaijee, Jay Shah
 
 ## Project Objectives: 
 * Create interactive US map to showcase data from straw polls
-* Showcase the political status each state
-* Explore Javascript libraries and Flask to create webpages to display data
+* Showcase each state political status each state
+* Create interactive data webpages using Javascript libraries and Flask
 
 ![alt text](https://github.com/tbhaijee/2020-Election-Poll-Visualization/blob/master/images/usmap.PNG)
 
